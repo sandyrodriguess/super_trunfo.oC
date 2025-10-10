@@ -3,7 +3,7 @@
 int main() {
     // Variáveis da Carta 1
     char estado1[50];
-    char codigo1[10];
+    char codigo1[20];
     char nomeCidade1[50];
     int populacao1; 
     int pontosTuristicos1;
@@ -12,7 +12,7 @@ int main() {
 
     // Variáveis da Carta 2
     char estado2[50]; 
-    char codigo2[10];
+    char codigo2[20];
     char nomeCidade2[50];
     int populacao2; 
     int pontosTuristicos2;
@@ -88,7 +88,3 @@ int main() {
 
     return 0;
 }
-
-
-}
-
